@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24582" started-at="2021-05-21T18:22:45Z" finished-at="2021-05-21T18:23:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24582" started-at="2021-05-21T18:22:45Z" finished-at="2021-05-21T18:23:09Z">
+      <class name="com.netcore.testScripts.SearchIphone">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.netcore.testScripts.SearchIphone@7d9d1a19]" name="launchBrowser" is-config="true" duration-ms="15111" started-at="2021-05-21T18:22:45Z" finished-at="2021-05-21T18:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Searchiphonetestcase()[pri:0, instance:com.netcore.testScripts.SearchIphone@7d9d1a19]" name="Searchiphonetestcase" duration-ms="9355" started-at="2021-05-21T18:23:00Z" finished-at="2021-05-21T18:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchiphonetestcase -->
+      </class> <!-- com.netcore.testScripts.SearchIphone -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
